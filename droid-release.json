@@ -1,0 +1,24 @@
+{
+    "versionCode":"1",
+    "applicationName":"sencha-boilerplate",
+    "applicationId":"com.biz.sencha-boilerplate",
+    "iconName":"web_hi_res_512.png",
+    "versionString":"1.0",
+    "inputPath":"~/path/to/sencha-boilerplate",
+    "outputPath":"~/path/to/sencha-boilerplate/build/droid",
+    "webAppPath":"~/path/to/sencha-boilerplate/",
+    "androidAPILevel":"16",
+    "configuration":"Release",
+    "platform":"Android",
+    "deviceType":"Universal",
+    "certificatePath":"~/path/to/key.keystore",
+    "certificateAlias":"KeyAlias",
+    "certificatePassword":"KeyPassword",
+    "sdkPath":"~/path/to/android-sdk-macosx",
+    "orientations": [
+        "portrait",
+        "landscapeLeft",
+        "landscapeRight",
+        "portraitUpsideDown"
+    ]
+}
